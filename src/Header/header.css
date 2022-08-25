@@ -1,0 +1,46 @@
+.div{
+    position: relative;
+}
+
+.header{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0 0 20px 0 rgb(112 121 138 / 18%);
+    position: fixed;
+    z-index: 99999;
+}
+
+/* .h-left{
+
+} */
+
+.logo{
+    width: 170px;
+    height: 15%;
+    padding: 15px;
+}
+
+.h-right{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.h-right button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .5rem;
+    border-radius: 5px;
+    background-color: #27ae60;
+    padding: 17px 30px;
+    cursor: pointer;
+    font-weight: 700;
+    color: white;
+    border: none;
+}

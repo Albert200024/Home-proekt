@@ -1,0 +1,19 @@
+.box_price ul li label{
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box_price ul li {
+    display: flex;
+    align-items: center;
+}
+
+.box_price {
+    text-align: center;
+}
+
+.mtop1{
+   padding: 50px 0 50px;
+}

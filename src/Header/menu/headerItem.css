@@ -1,0 +1,22 @@
+.link{
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.menu_container > ul {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.menu_container > ul li {
+    font-size: 1rem;
+    font-weight: 540;
+    transition: 0.2s ease-in-out;
+}
+
+.menu_container > ul li:hover{
+    color: #27ae60;
+    cursor: pointer;
+    transform: scale(1.2);
+}

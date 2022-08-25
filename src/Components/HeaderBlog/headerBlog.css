@@ -1,0 +1,10 @@
+
+.buildingsBlock{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    max-width: 80%;
+    margin: auto;
+   grid-gap: 30px;
+   padding: 110px 0 40px;
+}
+

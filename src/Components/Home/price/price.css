@@ -1,0 +1,103 @@
+/* price contaiener */
+.price {
+    text-align: center;
+    padding: 30px;
+}
+
+.price_container{
+    max-width: 80%;
+    margin: auto;
+}
+
+.mtop {
+    margin-top: 50px;
+}
+
+.flex {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* price hiader */
+.price_header{
+    max-width: 60%;
+    margin: auto;
+}
+
+.price_header h1{
+    font-size: 40px;
+    color: #2d3954;
+    text-align: center;
+    font-weight: 600;
+     text-transform: capitalize;
+ }
+ 
+.price_header p{
+     text-align: center;
+     padding-top: 15px;
+     color: #72809d;
+     font-size: 16px;
+ }
+
+ /* price card */
+ .shadow{
+    box-shadow: 0 0 20px 0 rgb(112 121 138 / 18%)
+ }
+
+ .box_price{
+    width: 32%;
+    padding: 30px;
+    border-radius: 10px;
+ }
+
+ .box_price button {
+    background-color: #FF6922;
+    padding: 15px 30px;
+    border: none;
+    color:white;
+    border-radius: 35px;
+    font-weight: 500;
+    font-size: 16px;
+ }
+
+ .box_price h3{
+    font-size: 22px;
+    padding-top: 14px;
+ }
+
+ .box_price h1 {
+    font-size: 60px;
+  }
+
+.box_price h1 span {
+    font-size: 30px;
+    font-weight: 500;
+  }
+
+  .box_price ul {
+    margin-top: 40px;
+  }
+
+  .box_price ul li {
+    display: flex;
+
+    margin-bottom: 20px;
+  }
+
+.box_price label {
+    width: 30px;
+    height: 30px;
+     line-height: 30px;
+    border-radius: 50%;
+    margin-right: 8px; 
+  } 
+
+  .box_price ul li p {
+       font-size: 14px;
+  } 
+
+  .price_box_btn{
+    width: 100%;
+
+  }
