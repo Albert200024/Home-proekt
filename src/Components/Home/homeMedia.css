@@ -1,0 +1,26 @@
+@media only screen and (max-width: 1240px) {
+    .home_page_form button {
+        padding: 10px 15px;
+
+    }
+
+    .home_page_form .btnIqon {
+        font-size: 18px;
+    }
+
+    ::placeholder {
+        color: black;
+        opacity: 1;
+        /* Firefox */
+        font-size: 12px !important;
+    }
+
+    .home_page_form .box h4 {
+        font-size: 18px;
+    }
+
+    .home_page_form .box {
+        width: 85%;
+        padding: 15px 16px 15px 15px;
+    }
+}

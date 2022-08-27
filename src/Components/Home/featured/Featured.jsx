@@ -1,5 +1,5 @@
 import React from 'react'
-import './../featured/featured.css'
+import './featured.css'
 import FeaturedCard from './FeaturedCard'
 
 const Featured = () => {

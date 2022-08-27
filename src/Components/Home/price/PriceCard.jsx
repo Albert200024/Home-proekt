@@ -1,7 +1,7 @@
 import React from 'react'
 import {price} from '../../../data/price_data'
 import './price.css'
-
+import './priceMedia.css'
 
 const PriceCard = () => {
   return (

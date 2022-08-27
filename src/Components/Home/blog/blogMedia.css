@@ -1,0 +1,18 @@
+@media only screen and (max-width: 1200px) {
+    .blog_box .text div p {
+        font-size: 12px;
+    }
+    .blog_box .btn_block span {
+        font-size: 14px;
+    }
+    .blog_box .btn_block button {
+        font-size: 14px;
+        padding: 6px 18px;
+    }
+ }
+
+@media only screen and (max-width: 1080px) {
+   .blog_box .text div p{
+       font-size: 12px;
+   }
+}

@@ -1,0 +1,26 @@
+@media only screen and (max-width: 1330px) {
+    .awards{
+        padding: 30px 0;
+    }
+    .awards .title_awards h1{
+        font-size: 30px;
+    }
+    .awards .awards_services .services h1{
+        font-size: 25px;
+    }
+    .services .icon {
+        font-size: 20px;
+        height: 85px;
+        margin: 40px auto auto;
+        width: 85px;
+ }
+}
+
+@media only screen and (max-width: 1110px) {
+    .awards .title_awards h1{
+        font-size: 25px;
+    }
+    .awards .awards_services .services h1{
+        font-size: 20px;
+    }
+}

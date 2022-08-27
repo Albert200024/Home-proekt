@@ -1,5 +1,6 @@
 import React from 'react'
 import './city.css'
+import './cityMedia.css'
 import {dataLocation} from '../../../data/data_location'
 
 const CityComp = () => {

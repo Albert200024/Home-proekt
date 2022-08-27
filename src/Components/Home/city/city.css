@@ -52,12 +52,11 @@
     height: 200px;
     justify-content: center;
     left: auto;
-    top: 40px;
+    top: 20px;
     bottom: auto;
     position: absolute;
     width: 80%;
     z-index: 222;
-    background: rgba(15,28,47,.3);
 }
 
 .fon h5{

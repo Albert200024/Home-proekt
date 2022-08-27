@@ -1,5 +1,6 @@
 import React from 'react'
 import './blog.css'
+import './blogMedia.css'
 import {dataHome} from '../../../data/dataHome'
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import FavoriteIcon from '@mui/icons-material/Favorite';

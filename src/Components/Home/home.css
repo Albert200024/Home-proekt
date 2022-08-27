@@ -51,7 +51,6 @@
     flex-direction: column;
     padding:10px;
     border-left: 1px solid hsla(0,0%,50%,.2);
-    
 }
 
 .box:nth-child(1){

@@ -1,5 +1,6 @@
 import React from 'react'
 import './awards.css'
+import './awardsMedia.css'
 import SearchIcon from '@mui/icons-material/Search';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import LightbulbIcon from '@mui/icons-material/Lightbulb';

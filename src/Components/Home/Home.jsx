@@ -1,5 +1,6 @@
 import React from 'react'
 import './home.css'
+import './homeMedia.css'
 import SearchIcon from '@mui/icons-material/Search';
 import Featured from './featured/Featured';
 import Blog from './blog/Blog';
@@ -34,15 +35,15 @@ const Home = () => {
                     <div className='box'>
                         <h4>Advance Filter</h4>
                     </div>
-                    <button className="btn1"><SearchIcon style={{color:"white"}}/></button>
+                    <button className="btn1"><SearchIcon className="btnIqon"style={{color:"white"}}/></button>
                 </form>
           </div>
        </div>  
     </div>
-    <Featured/> 
-    <Blog/>
-    <Awards/>
-    <CityComp/>
+     <Featured/> 
+     <Blog/>
+     <Awards/>
+     <CityComp/>
      <People/>
      <Price/>
    </>

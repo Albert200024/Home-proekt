@@ -1,17 +1,14 @@
 import React from 'react'
 import img from './../../img/serviceImg.jpg'
 import './service.css'
+import '../Home/featured/featuredMedia.css'
 import {featured} from './../../data/data_featured'
-import featuredImg1 from './../../img/featuredImg/img1.png'
-import featuredImg2 from './../../img/featuredImg/img2.png'
-import featuredImg3 from './../../img/featuredImg/img3.png'
-import featuredImg4 from './../../img/featuredImg/img4.png'
-import featuredImg5 from './../../img/featuredImg/img5.png'
+
 
 const Service = () => {
   return (
     <section className='service'>
-    <div className='service_cont'>
+    <div className='service_cont '>
       <div className='back'>
          <div className='serviceInfo'>
             <span>Service</span>
